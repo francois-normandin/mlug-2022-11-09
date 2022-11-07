@@ -1,0 +1,2 @@
+MQTT is an industry-standard Pub-Sub protocol that is widely used in distributed applications. 
+In this presentation, we will cover the MQTT basics and use those building blocks to demonstrate useful design patterns for building system applications with modularity, connectivity and scalability in mind.
