@@ -52,7 +52,10 @@
 			<Item Name="05. Native MQTT Delegation.vi" Type="VI" URL="../05. Native MQTT Delegation.vi"/>
 			<Item Name="05. Native MQTT Service Client.vi" Type="VI" URL="../05. Native MQTT Service Client.vi"/>
 		</Item>
-		<Item Name="06 -- Pipelining" Type="Folder"/>
+		<Item Name="06 -- Hierarchy" Type="Folder">
+			<Item Name="06. Native MQTT System.vi" Type="VI" URL="../06. Native MQTT System.vi"/>
+			<Item Name="06. Native MQTT Instrument.vi" Type="VI" URL="../06. Native MQTT Instrument.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
@@ -120,6 +123,8 @@
 				<Item Name="GregorianCal_MonthLengths.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/Epoch Date &amp; Time/GregorianCal_MonthLengths.vi"/>
 				<Item Name="ISO8601 DateString to Timestamp.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter.iso8601/ISO8601 DateString to Timestamp.vi"/>
 				<Item Name="openURI.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/OpenURI/openURI.lvlib"/>
+				<Item Name="isDST.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/Epoch Date &amp; Time/isDST.vi"/>
+				<Item Name="Is Value Changed.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Is Value Changed.vim"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
