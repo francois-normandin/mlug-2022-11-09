@@ -32,6 +32,9 @@
 		<Item Name="00 -- Broker" Type="Folder">
 			<Item Name="00. Native MQTT Broker.vi" Type="VI" URL="../00. Native MQTT Broker.vi"/>
 		</Item>
+		<Item Name="01 -- MQTT" Type="Folder">
+			<Item Name="MQTT Basics -- Low Level.vi" Type="VI" URL="../MQTT Basics -- Low Level.vi"/>
+		</Item>
 		<Item Name="02 -- Publish Subscribe" Type="Folder">
 			<Item Name="01. Native MQTT Lossy Data Producer.vi" Type="VI" URL="../01. Native MQTT Lossy Data Producer.vi"/>
 			<Item Name="02. Native MQTT Data Consumer.vi" Type="VI" URL="../02. Native MQTT Data Consumer.vi"/>
